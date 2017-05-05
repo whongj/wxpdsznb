@@ -7,7 +7,7 @@ package com.wxpdsznb.wx.clients.models;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name = \"appBill")
+@XmlRootElement(name = "/appBill")
 public class AppBill{
 	/**
 	 * 

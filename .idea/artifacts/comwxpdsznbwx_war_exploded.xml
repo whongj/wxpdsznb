@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="comwxpdsznbwx:war exploded">
-    <output-path>$PROJECT_DIR$/target/com.wxpdsznb.wx_0.0.1-SNAPSHOT_20170503</output-path>
+    <output-path>$PROJECT_DIR$/target/com.wxpdsznb.wx_0.0.1-SNAPSHOT_20170504</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -54,10 +54,12 @@
           <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.7" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
           <element id="library" level="project" name="Maven: com.google.guava:guava:19.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/com.wxpdsznb.wx_0.0.1-SNAPSHOT_20170503/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/com.wxpdsznb.wx_0.0.1-SNAPSHOT_20170504/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="comwxpdsznbwx/web/Web" />
     </root>

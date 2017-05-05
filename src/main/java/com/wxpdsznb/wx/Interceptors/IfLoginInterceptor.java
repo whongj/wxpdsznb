@@ -1,7 +1,7 @@
 package com.wxpdsznb.wx.Interceptors;
 
 import com.sun.org.apache.regexp.internal.RE;
-import com.wdsznb.books.beans.UserBean;
+import com.wxpdsznb.wx.entity.*;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.context.request.SessionScope;
 import org.springframework.web.context.request.WebRequest;

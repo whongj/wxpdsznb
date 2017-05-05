@@ -1,7 +1,6 @@
 package com.wxpdsznb.wx.Service.impl;
 
-import com.wdsznb.books.clients.client.SSLHttpClient;
-import com.wdsznb.books.services.HttpClientService;
+import com.wxpdsznb.wx.clients.client.SSLHttpClient;
 import com.wxpdsznb.wx.Service.HttpClientService;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

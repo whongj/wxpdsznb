@@ -14,7 +14,6 @@
         <maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
         <spring.version>4.3.2.RELEASE</spring.version>
         <weixin-java-mp.version>2.6.0</weixin-java-mp.version>
-
     </properties>
 
     <dependencies>
@@ -227,9 +226,16 @@
             <artifactId>weixin-java-mp</artifactId>
             <version>${weixin-java-mp.version}</version>
         </dependency>
-    </dependencies>
+<!--解决import org.codehaus.jackson.map.ObjectMapper;
+ 不太清楚什么作用。。。。-->
+        <!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl -->
+        <dependency>
+            <groupId>org.codehaus.jackson</groupId>
+            <artifactId>jackson-mapper-asl</artifactId>
+            <version>1.9.13</version>
+        </dependency>
 
-
+</dependencies>
 
     <!-- Build Settings -->
     <!--http://maven.apache.org/pom.html#Build_Settings -->

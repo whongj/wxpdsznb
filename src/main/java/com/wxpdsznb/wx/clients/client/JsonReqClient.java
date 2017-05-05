@@ -7,9 +7,9 @@ package com.wxpdsznb.wx.clients.client;
 
 import com.google.gson.Gson;
 
-import com.wdsznb.books.clients.DateUtil;
-import com.wdsznb.books.clients.EncryptUtil;
-import com.wdsznb.books.clients.models.*;
+import com.wxpdsznb.wx.clients.DateUtil;
+import com.wxpdsznb.wx.clients.EncryptUtil;
+import com.wxpdsznb.wx.clients.models.*;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.impl.client.DefaultHttpClient;

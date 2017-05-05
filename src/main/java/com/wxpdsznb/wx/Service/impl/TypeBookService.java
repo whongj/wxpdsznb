@@ -1,7 +1,7 @@
 package com.wxpdsznb.wx.Service.impl;
 
+import com.wxpdsznb.wx.dao.TypeBookMapper;
 import com.wxpdsznb.wx.entity.BookBean;
-import com.wxpdsznb.wx.mapper.TypeBookMapper;
 import com.wxpdsznb.wx.Service.BookService;
 
 import org.springframework.beans.factory.annotation.Autowired;
