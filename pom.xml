@@ -234,8 +234,15 @@
             <artifactId>jackson-mapper-asl</artifactId>
             <version>1.9.13</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6.1</version>
+        </dependency>
 
-</dependencies>
+
+    </dependencies>
 
     <!-- Build Settings -->
     <!--http://maven.apache.org/pom.html#Build_Settings -->

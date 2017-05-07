@@ -2,5 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/message/event/BaseEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/message/event/LocationEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/message/event/MenuEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/message/event/QRCodeEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/message/event/SubscribeEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wxpdsznb/wx/util/SignUtil.java" charset="GBK" />
   </component>
 </project>
